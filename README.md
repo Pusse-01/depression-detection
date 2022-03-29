@@ -1,1 +1,1 @@
-# deoression-detection
+# depression-detection
